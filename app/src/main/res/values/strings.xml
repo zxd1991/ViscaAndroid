@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ViscaAndroid</string>
+    <string name="up">上</string>
+    <string name="down">下</string>
+    <string name="left">左</string>
+    <string name="right">右</string>
+    <string name="reset">Home</string>
+    <string name="zoom_wide">变焦远</string>
+    <string name="zoom_tele">变焦近</string>
+    <string name="pantilt_speed">云台速度:</string>
+    <string name="pre_position">预制位</string>
+    <string name="pre_pos_set">设置</string>
+    <string name="pre_pos_recall">调用</string>
+    <string name="zoom_speed_hint">变焦速度(1-7)</string>
+    <string name="pre_pos_hint">预制位(1-8)</string>
+    <string name="pantile_speed_hint">云台速度(1-20)</string>
+    <string name="teacher">老师</string>
+    <string name="student">学生</string>
+    <string name="ip_address">摄像机IP:</string>
+    <string name="ip_port">摄像机端口:</string>
+    <string name="connect">连接</string>
+</resources>
